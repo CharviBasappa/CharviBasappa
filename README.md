@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Charvi Basappa
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhigattineni&show_icons=true&locale=en&layout=compact" alt="abhigattineni" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
 
 <!--
 
