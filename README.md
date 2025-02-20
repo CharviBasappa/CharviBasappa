@@ -121,7 +121,7 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/d3js-icon.svg" width="48" height="48" alt="D3.js" />
+        <img src="https://techstack-generator.vercel.app/d3-icon.svg" width="48" height="48" alt="D3.js" />
       <br>D3.js
     </td>
     <td align="center" width="96">
