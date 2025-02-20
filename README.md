@@ -88,7 +88,23 @@
     </td>
   </tr>
   <tr>
-     <td align="center" width="96">
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=hadoop" width="48" height="48" alt="hadoop" />
+      <br>Hadoop
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=reactnative" width="48" height="48" alt="reactnative" />
+      <br>ReactNative
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
