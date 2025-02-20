@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charvibasappa" alt="charvibasappa" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Connect with me:
+<p align="left"></p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <table>
   <tr>
     <td align="center" width="96">
@@ -195,7 +194,7 @@
   </tr>
 </table>
 
-<h3 align="left">GitHub Profile Stats 💻</h3>
+## GitHub Profile Stats 💻
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
