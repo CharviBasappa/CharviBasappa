@@ -195,6 +195,9 @@
   <img src="https://streak-stats.demolab.com?user=CharviBasappa&theme=merco&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
+## ⚡ Tech Stack
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&borderColor=%23000000&lineCount=3&align=center&theme=github_dark)
+
 <!--
 
 - 🔭 I’m currently working on ...
