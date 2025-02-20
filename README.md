@@ -185,8 +185,21 @@
 </table>
 
 ## 🔥 Featured Projects  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=MunchMate)](https://github.com/CharviBasappa/MunchMate)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=TaskManager)](https://github.com/CharviBasappa/TaskManager)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/CharviBasappa/MunchMate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=MunchMate" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/CharviBasappa/Task-Manager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=Task-Manager" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🚀 GitHub Activity
