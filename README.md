@@ -186,15 +186,19 @@
 
 ## 🔥 Featured Projects  
 <div align="center">
+  <a href="https://github.com/CharviBasappa/AppChat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=AppChat" />
+  </a>
   <a href="https://github.com/CharviBasappa/MunchMate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=MunchMate" />
+  </a>
+  <a href="https://github.com/CharviBasappa/WeatherApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=WeatherApp" />
   </a>
   <a href="https://github.com/CharviBasappa/TaskManager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=TaskManager" />
   </a>
-  <a href="https://github.com/CharviBasappa/AppChat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=AppChat" />
-  </a>
+  
 </div>
 
 
