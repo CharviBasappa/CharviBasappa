@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charvibasappa" alt="charvibasappa" /></a> </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=charvibasappa&theme=onedark&row=1&margin-w=15&no-bg=true" />
-</p>
-
 ## 📫 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/charvibasappa/" target="_blank">
@@ -21,14 +17,6 @@
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
 </p>
-
-## ⚙️ Languages and Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,ts,react,bootstrap,html,css,sass,redux" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,kafka,mongodb,postgres,mysql,redis,docker,aws" />
-</p>
-
 
 ## ⚙️ Languages and Tools:
 <table>
@@ -216,17 +204,13 @@
   <a href="https://github.com/CharviBasappa/TaskManager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=TaskManager" />
   </a>
-  
 </div>
 
 
 ## 🚀 GitHub Activity
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&langs_count=8&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
 <br/>
-
 <p>
   <img src="https://streak-stats.demolab.com?user=CharviBasappa&theme=merco&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
