@@ -9,7 +9,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/charvibasappa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a> &nbsp;
+  </a> &nbsp; &nbsp;
   <a href="https://github.com/CharviBasappa" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="30"/>
   </a> &nbsp;
@@ -194,13 +194,13 @@
 <div>
   <a href="https://github.com/CharviBasappa/AppChat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=AppChat" />
-  </a> &nbsp;
+  </a>
   <a href="https://github.com/CharviBasappa/MunchMate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=MunchMate" />
-  </a> &nbsp;
+  </a>
   <a href="https://github.com/CharviBasappa/WeatherApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=WeatherApp" />
-  </a> &nbsp;
+  </a>
   <a href="https://github.com/CharviBasappa/TaskManager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=TaskManager" />
   </a>
@@ -208,7 +208,7 @@
 
 
 ## 🚀 GitHub Activity
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p> &nbsp;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&langs_count=8&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
 <br/>
 <p>
