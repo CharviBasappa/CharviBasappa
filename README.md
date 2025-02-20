@@ -174,7 +174,7 @@
       <br>Cypress
     </td>
     <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/selenium.svg" width="40" height="40" alt="selenium" />
+        <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
       <br>Selenium
     </td>
     <td align="center" width="96">
