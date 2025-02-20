@@ -53,6 +53,8 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="sass" />
       <br>SASS
@@ -61,8 +63,6 @@
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
       <br>Redux
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="webpack" />
       <br>Webpack
@@ -87,6 +87,8 @@
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="graphql" />
       <br>GraphQL
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="kafka" />
       <br>Kafka
@@ -103,8 +105,6 @@
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactnative" />
       <br>ReactNative
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
@@ -121,7 +121,9 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr>
+     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=d3" width="48" height="48" alt="D3.js" />
       <br>D3.js
     </td>
@@ -145,8 +147,6 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
       <br>Django
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
       <br>Flask
@@ -155,6 +155,8 @@
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>JQuery
