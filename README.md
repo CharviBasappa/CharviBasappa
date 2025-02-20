@@ -94,7 +94,7 @@
       <br>Hadoop
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=reactnative" width="48" height="48" alt="reactnative" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactnative" />
       <br>ReactNative
     </td>
   </tr>
@@ -124,12 +124,12 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/d3-icon.svg" width="48" height="48" alt="D3.js" />
+      <img src="https://skillicons.dev/icons?i=d3" width="48" height="48" alt="D3.js" />
       <br>D3.js
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/chart.js-icon.svg" width="48" height="48" alt="chart.js" />
-      <br>Chartjs
+      <img src="https://skillicons.dev/icons?i=chartjs" width="48" height="48" alt="Chart.js" />
+      <br>Chart.js
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
@@ -170,7 +170,7 @@
       <br>Pytest
     </td>
     <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/cypress.svg" width="40" height="40" alt="cypress" />
+      <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
       <br>Cypress
     </td>
     <td align="center" width="96">
@@ -178,7 +178,7 @@
       <br>Selenium
     </td>
     <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/jest.svg" width="40" height="40" alt="jest" />
+      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
       <br>Jest
     </td>
   </tr>
