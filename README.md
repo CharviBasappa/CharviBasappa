@@ -13,9 +13,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
