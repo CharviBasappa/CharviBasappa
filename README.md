@@ -125,30 +125,70 @@
       <br>D3.js
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+        <img src="https://techstack-generator.vercel.app/chart.js-icon.svg" width="48" height="48" alt="chart.js" />
+      <br>Chartjs
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="50" height="50" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
       <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
+      <br>Flask
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>JQuery
     </td>
     <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+      <br>Pytest
+    </td>
+    <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/cypress.svg" width="40" height="40" alt="cypress" />
+      <br>Cypress
+    </td>
+    <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/selenium.svg" width="40" height="40" alt="selenium" />
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/jest.svg" width="40" height="40" alt="jest" />
+      <br>Jest
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
     </td>
   </tr>
 </table>
