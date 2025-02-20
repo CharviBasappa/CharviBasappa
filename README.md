@@ -200,9 +200,10 @@
 
 ## 🚀 GitHub Activity
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Charvi Basappa's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=CharviBasappa&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Charvi Basappa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charvi Basappa&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
+<br/>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=CharviBasappa&theme=merco&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
