@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charvi Basappa</h1>
-<h3 align="center">Full-Stack Developer | Python & React</h3>
+<h3 align="center">Full-Stack Web Developer | Python & React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charvibasappa&label=Profile%20views&color=0e75b6&style=flat" alt="charvibasappa" /> </p>
 
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/charvibasappa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charvibasappa/" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools:
+## Languages and Tools ⚙️:
 <table>
   <tr>
     <td align="center" width="96">
@@ -198,12 +198,41 @@
   </tr>
 </table>
 
-## GitHub Profile Stats 💻
+## GitHub Profile Stats 📊
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charvibasappa&" alt="charvibasappa" /></p>
+
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CharviBasappa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+</p>
+
+## 📊 GitHub Activity Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CharviBasappa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+## 📌 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharviBasappa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🚀 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CharviBasappa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CharviBasappa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharviBasappa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 <!--
 
