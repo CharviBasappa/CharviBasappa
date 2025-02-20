@@ -17,7 +17,7 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=csharp" width="48" height="48" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=c#" width="48" height="48" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
@@ -28,6 +28,14 @@
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
       <br>TypeScript
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+        <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -36,13 +44,29 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="sass" />
+      <br>SASS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="webpack" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=babel" width="48" height="48" alt="babel" />
+      <br>Babel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=materialize" width="48" height="48" alt="materialize" />
+      <br>Materialize
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
