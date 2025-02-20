@@ -200,8 +200,8 @@
 
 ## 🚀 GitHub Activity
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
 
 <br/>
 
