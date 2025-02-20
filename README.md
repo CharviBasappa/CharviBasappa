@@ -185,21 +185,14 @@
 </table>
 
 ## 🔥 Featured Projects  
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/CharviBasappa/MunchMate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=MunchMate" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/CharviBasappa/Task-Manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=Task-Manager" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <a href="https://github.com/CharviBasappa/MunchMate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=MunchMate" />
+  </a>
+  <a href="https://github.com/CharviBasappa/Task-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=Task-Manager" />
+  </a>
+</div>
 
 
 ## 🚀 GitHub Activity
