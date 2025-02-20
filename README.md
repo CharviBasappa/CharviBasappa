@@ -195,11 +195,9 @@
   </tr>
 </table>
 
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
-</details>
+<p>GitHub Profile Stats 💻</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charvibasappa&" alt="charvibasappa" /></p>
