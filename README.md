@@ -205,21 +205,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charvibasappa&" alt="charvibasappa" /></p>
 
-## 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CharviBasappa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
-</p>
-
-## 📊 GitHub Activity Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharviBasappa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-## 📌 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharviBasappa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ## 🚀 GitHub Activity
 
 <p align="center">
