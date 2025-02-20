@@ -18,8 +18,8 @@
       </a>
       <br>Python
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=c#" width="48" height="48" alt="csharp" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=csharp" width="48" height="48" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
