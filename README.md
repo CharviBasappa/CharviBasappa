@@ -200,16 +200,16 @@
 
 ## 🚀 GitHub Activity
 
-<p align="center">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharviBasappa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=CharviBasappa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=CharviBasappa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharviBasappa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <!--
