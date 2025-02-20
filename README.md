@@ -195,7 +195,7 @@
   </tr>
 </table>
 
-<p>GitHub Profile Stats 💻</p>
+<h3 align="left">GitHub Profile Stats 💻</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
