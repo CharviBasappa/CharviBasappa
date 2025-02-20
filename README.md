@@ -196,7 +196,7 @@
 </p>
 
 ## ⚡ Tech Stack
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&borderColor=%23000000&lineCount=3&align=center&theme=github_dark)
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&borderColor=%23111111&lineCount=3&align=center&theme=github_dark)
 
 <!--
 
