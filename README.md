@@ -48,12 +48,12 @@
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="sass" />
       <br>SASS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
       <br>Redux
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="webpack" />
       <br>Webpack
@@ -128,6 +128,8 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
