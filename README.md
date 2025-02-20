@@ -184,6 +184,11 @@
   </tr>
 </table>
 
+## 🔥 Featured Projects  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=MunchMate)](https://github.com/CharviBasappa/MunchMate)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=Task-Manager)](https://github.com/CharviBasappa/Task-Manager)
+
+
 ## 🚀 GitHub Activity
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
@@ -195,9 +200,6 @@
   <img src="https://streak-stats.demolab.com?user=CharviBasappa&theme=merco&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CharviBasappa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
 <!--
 
 - 🔭 I’m currently working on ...
