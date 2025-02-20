@@ -136,6 +136,8 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="50" height="50" />
       <br>AWS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
       <br>Jenkins
@@ -152,8 +154,6 @@
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
       <br>Flask
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
@@ -178,6 +178,8 @@
         <img src="https://bruhin.software/img/logos/jest.svg" width="40" height="40" alt="jest" />
       <br>Jest
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
