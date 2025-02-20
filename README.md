@@ -5,18 +5,30 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charvibasappa" alt="charvibasappa" /></a> </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=charvibasappa&theme=onedark&row=1&margin-w=15&no-bg=true" />
+</p>
+
 ## 📫 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/charvibasappa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
+  </a> &nbsp;
   <a href="https://github.com/CharviBasappa" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-  </a>
+  </a> &nbsp;
   <a href="mailto:cbasap0105@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
 </p>
+
+## ⚙️ Languages and Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,ts,react,bootstrap,html,css,sass,redux" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,kafka,mongodb,postgres,mysql,redis,docker,aws" />
+</p>
+
 
 ## ⚙️ Languages and Tools:
 <table>
