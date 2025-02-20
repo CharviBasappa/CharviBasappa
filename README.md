@@ -189,8 +189,11 @@
   <a href="https://github.com/CharviBasappa/MunchMate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=MunchMate" />
   </a>
-  <a href="https://github.com/CharviBasappa/Task-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=Task-Manager" />
+  <a href="https://github.com/CharviBasappa/TaskManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=TaskManager" />
+  </a>
+  <a href="https://github.com/CharviBasappa/ChatApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=ChatApp" />
   </a>
 </div>
 
