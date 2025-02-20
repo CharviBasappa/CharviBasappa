@@ -5,22 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charvibasappa" alt="charvibasappa" /></a> </p>
 
-- 📫 How to reach me **cbasap0105@gmail.com**
-
-## Connect with me:
-<p align="center">
+## 📫 Connect with me:
+<p align="left">
   <a href="https://www.linkedin.com/in/charvibasappa/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="https://github.com/CharviBasappa" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="30"/>
   </a>
   <a href="mailto:cbasap0105@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
 </p>
 
-## Languages and Tools ⚙️:
+## ⚙️ Languages and Tools:
 <table>
   <tr>
     <td align="center" width="96">
@@ -212,11 +210,9 @@
 
 ## 🚀 GitHub Activity
 
-<div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
-  <br>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&langs_count=8&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&langs_count=8&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
 <br/>
 
 <p>
