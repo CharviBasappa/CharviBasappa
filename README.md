@@ -70,10 +70,6 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=materialize" width="48" height="48" alt="materialize" />
-      <br>Materialize
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>NodeJS
     </td>
@@ -90,16 +86,6 @@
       <br>Kafka
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=hadoop" width="48" height="48" alt="hadoop" />
-      <br>Hadoop
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactnative" />
-      <br>ReactNative
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
       <br>Flutter
     </td>
@@ -107,6 +93,12 @@
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactnative" />
+      <br>ReactNative
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
@@ -128,10 +120,6 @@
       <br>D3.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=chartjs" width="48" height="48" alt="Chart.js" />
-      <br>Chart.js
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
@@ -139,8 +127,6 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="50" height="50" />
       <br>AWS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
       <br>Jenkins
@@ -153,6 +139,8 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
       <br>Django
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
       <br>Flask
@@ -181,8 +169,6 @@
       <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
       <br>Jest
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
