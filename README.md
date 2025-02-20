@@ -8,8 +8,16 @@
 - 📫 How to reach me **cbasap0105@gmail.com**
 
 ## Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/charvibasappa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charvibasappa/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/charvibasappa/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/CharviBasappa" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" />
+  </a>
+  <a href="mailto:cbasap0105@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" />
+  </a>
 </p>
 
 ## Languages and Tools ⚙️:
