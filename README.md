@@ -86,8 +86,6 @@
         <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="kafka" />
       <br>Kafka
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=hadoop" width="48" height="48" alt="hadoop" />
       <br>Hadoop
@@ -96,6 +94,8 @@
         <img src="https://skillicons.dev/icons?i=reactnative" width="48" height="48" alt="reactnative" />
       <br>ReactNative
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
       <br>Flutter
@@ -128,8 +128,6 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
-    </tr>
-    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
