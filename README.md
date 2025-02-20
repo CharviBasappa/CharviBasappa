@@ -9,10 +9,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/charvibasappa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a> &nbsp; &nbsp;
+  </a>
   <a href="https://github.com/CharviBasappa" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-  </a> &nbsp;
+  </a>
   <a href="mailto:cbasap0105@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
