@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charvibasappa" alt="charvibasappa" /></a> </p>
 
+🏆 Just starting my LeetCode - Check out my progress: 
+
+🏆 Just starting my LeetCode - [Click here](https://leetcode.com/u/CharviBasappa/) to check out my progress! 🚀
+
 ## 📫 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/charvibasappa/" target="_blank">
