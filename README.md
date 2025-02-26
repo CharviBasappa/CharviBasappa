@@ -59,12 +59,12 @@
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="sass" />
       <br>SASS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
       <br>Redux
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="webpack" />
       <br>Webpack
@@ -97,6 +97,8 @@
         <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
       <br>Flutter
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
@@ -105,8 +107,6 @@
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactnative" />
       <br>ReactNative
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
@@ -135,6 +135,8 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="50" height="50" />
       <br>AWS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
       <br>Jenkins
@@ -147,8 +149,6 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
       <br>Django
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
       <br>Flask
@@ -173,6 +173,8 @@
         <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
       <br>Selenium
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
       <br>Jest
