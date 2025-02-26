@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charvibasappa&label=Profile%20views&color=0e75b6&style=flat" alt="charvibasappa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charvibasappa" alt="charvibasappa" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charvibasappa" alt="charvibasappa" /></a> </p> -->
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=charvibasappa&theme=darkhub&no-frame=true&column=6&only=Commit,Issue,PullRequest)
+
 
 <!--🏆 Just starting my LeetCode journey - [Click here](https://leetcode.com/u/CharviBasappa/) to check out my progress! 🚀> -->
 
