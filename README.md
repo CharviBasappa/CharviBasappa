@@ -55,12 +55,12 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="sass" />
       <br>SASS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
       <br>Redux
@@ -89,24 +89,6 @@
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="graphql" />
       <br>GraphQL
     </td>
-  </tr>
-  <tr>
-<!--     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="kafka" />
-      <br>Kafka
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactnative" />
-      <br>ReactNative
-    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
@@ -124,6 +106,24 @@
       <br>MySQL
     </td>
   </tr>
+<!--   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactnative" />
+      <br>ReactNative
+    </td>
+  </tr> -->
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=d3" width="48" height="48" alt="D3.js" />
