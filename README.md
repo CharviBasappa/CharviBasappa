@@ -27,10 +27,10 @@
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=c#" width="48" height="48" alt="C#" />
       <br>C#
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="65" height="65" />
       <br>Javascript
@@ -65,7 +65,7 @@
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
       <br>Redux
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="webpack" />
       <br>Webpack
     </td>
@@ -76,7 +76,7 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>NodeJS
@@ -91,7 +91,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="kafka" />
       <br>Kafka
     </td>
@@ -106,7 +106,7 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="reactnative" />
       <br>ReactNative
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
