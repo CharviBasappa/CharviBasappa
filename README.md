@@ -194,7 +194,7 @@
   </tr>
 </table>
 
-## 🔥 Featured Projects  
+## 🔥 Featured Projects:
 <div>
   <a href="https://github.com/CharviBasappa/AppChat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=AppChat" />
@@ -211,7 +211,7 @@
 </div>
 
 
-## 🚀 GitHub Activity
+## 🚀 GitHub Activity:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&langs_count=8&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
 <br/>
