@@ -197,10 +197,10 @@
 ## 🔥 Featured Projects:
 <div>
   <a href="https://github.com/CharviBasappa/Fashora_Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=FashoraWebsite" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=Fashora_Website" />
   </a>
   <a href="https://github.com/CharviBasappa/AlgoBeats_Pygorithm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=AlgoBeatsPygorithm" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=AlgoBeats_Pygorithm" />
   </a>
   <a href="https://github.com/CharviBasappa/WeatherApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharviBasappa&repo=WeatherApp" />
